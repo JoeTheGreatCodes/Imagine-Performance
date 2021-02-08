@@ -14,3 +14,16 @@ for Windows and Linux
 For Linux only users:
 - Fans RPM (Revolutions Per Minute)
 - Various computer temperatures
+
+how to download:
+
+1. download all files and store them safe 
+
+2. next in terminal/shell type 
+#cd (whewre you saved it)
+#cd Imagine-Performance
+
+3. then type 
+#$ python3 Imagine-Performance.py
+
+there you go enjoy htis tool pls give feedback this is my first project on GitHub ;)
