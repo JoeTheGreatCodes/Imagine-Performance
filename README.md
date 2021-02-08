@@ -24,6 +24,6 @@ how to download:
 #cd Imagine-Performance
 
 3. then type 
-#$ python3 Imagine-Performance.py
+#$ python3 perform
 
 there you go enjoy htis tool pls give feedback this is my first project on GitHub ;)
