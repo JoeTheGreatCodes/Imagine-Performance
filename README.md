@@ -11,7 +11,7 @@ for Windows and Linux
 - GPU information
 - Battery Information (Laptops only!)
 
-Note when running on CMD (Command Prompt) to always run it so it doesnt close automatically to do this simply Press Windows key + R to open the Run window. Launch the command prompt by typing cmd /K then type command to run Imagine-Performance.
+***Note when running on CMD (Command Prompt) to always run it so it doesnt close automatically to do this simply Press Windows key + R to open the Run window. Launch the command prompt by typing cmd /K then type command to run Imagine-Performance.***
 
 For Linux only users:
 - Fans RPM (Revolutions Per Minute)
