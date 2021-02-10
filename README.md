@@ -13,6 +13,8 @@ for Windows and Linux
 
 ***Note when running on CMD (Command Prompt) to always run it so it doesnt close automatically to do this simply Press Windows key + R to open the Run window. Launch the command prompt by typing cmd /K then type command to run Imagine-Performance.***
 
+^this may also not work for some reason
+
 For Linux only users:
 - Fans RPM (Revolutions Per Minute)
 - Various computer temperatures
